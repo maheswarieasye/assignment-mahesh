@@ -1,0 +1,35 @@
+[{
+    "Name":"mahesh",
+    "DOB":"17/08/93",
+    "Height":"145",
+    "City":"chennai",
+    "State":"Tamilnadu"
+},
+{
+    "Name":"mothies",
+    "DOB":"01/08/2022",
+    "Height":"140",
+    "City":"coimbatore",
+    "State":"Tamilnadu"
+},
+{
+    "Name":"suganthi",
+    "DOB":"06/06/1995",
+    "Height":"155",
+    "City":"madurai",
+    "State":"Tamilnadu"
+},
+{
+    "Name":"priya",
+    "DOB":"01/05/1970",
+    "Height":"150",
+    "City":"bangalore",
+    "State":"Karnataka"
+},
+{
+    "Name":"sekar",
+    "DOB":"10/12/1964",
+    "Height":"170",
+    "City":"delhi",
+    "State":"delhi"
+}]
